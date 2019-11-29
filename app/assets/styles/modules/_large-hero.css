@@ -1,8 +1,8 @@
 /*added via _large-hero.css*/
 .large-hero{
 	border-bottom: 10px solid $mainBlue;
-
 	position: relative;
+	
 	&__image{
 		display: block;
 	}
